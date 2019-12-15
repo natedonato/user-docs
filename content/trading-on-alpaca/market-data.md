@@ -3,6 +3,7 @@ title: Market Data
 weight: 45
 aliases:
     - /market-data.md
+    - /market-data
 ---
 
 Alpaca provides you with different market data depending upon your account type. Below is a summary of the data feeds

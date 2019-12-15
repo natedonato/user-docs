@@ -3,6 +3,7 @@ title: User Protections
 weight: 200
 aliases:
     - /user-protections.md
+    - /trading-on-alpaca/user-protections.md
 ---
 
 We have enabled several types of protections to enhance your trading experience.

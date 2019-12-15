@@ -3,6 +3,7 @@ title: Understand Orders
 weight: 60
 aliases:
     - /orders.md
+    - /trading-on-alpaca/orders.md
 ---
 
 Using Alpaca Trade API, a user can monitor, place and cancel their orders
